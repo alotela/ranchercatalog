@@ -1,0 +1,4 @@
+alfresco:
+  environment:
+    CIFS_ENABLED: 'false'
+    FTP_ENABLED: 'false'
